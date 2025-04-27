@@ -1,5 +1,6 @@
+<ul>
 I have listed my project name " SBA Accebility" 
-Index.hrml page and styke.css page created in it.
+Index.html page and styke.css page created in it.
 In Index.Html we have created different section,Header with Navigation bar and logo, Hero section,About section,Service section, Contact section and Footer section, they are enclosed in comment listed below, 
  <!-- Header with logo and navigation -->
  <!-- Main Content -->
@@ -14,3 +15,4 @@ Arias features used for labeling, semantics feature used for better understandin
 Reference: 
 https://www.w3schools.com
 
+</ul>
